@@ -1,3 +1,6 @@
+B1: Create layout
+shortcut create component: rafce
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
