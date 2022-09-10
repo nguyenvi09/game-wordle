@@ -2,7 +2,9 @@
 
 interface boardState{
     board: string[],
-    position: number
+    position: number,
+    row: number,
+    key: string
 }
 
 export interface rootState{
